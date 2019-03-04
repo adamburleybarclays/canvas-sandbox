@@ -18,11 +18,11 @@
     <title>Chatter Talk Example</title>
     <link rel="stylesheet" type="text/css" href="/examples/chatter-talk/talk.css" />
 
-    <script type="text/javascript" src="/sdk/js/canvas.js"></script>
-    <script type="text/javascript" src="/sdk/js/cookies.js"></script>
-    <script type="text/javascript" src="/sdk/js/oauth.js"></script>
-    <script type="text/javascript" src="/sdk/js/xd.js"></script>
-    <script type="text/javascript" src="/sdk/js/client.js"></script>
+    <script type="text/javascript" src="/sdk_nosub/js/canvas.js"></script>
+    <script type="text/javascript" src="/sdk_nosub/js/cookies.js"></script>
+    <script type="text/javascript" src="/sdk_nosub/js/oauth.js"></script>
+    <script type="text/javascript" src="/sdk_nosub/js/xd.js"></script>
+    <script type="text/javascript" src="/sdk_nosub/js/client.js"></script>
     <script type="text/javascript" src="/scripts/json2.js"></script>
     <script type="text/javascript" src="/examples/chatter-talk/chatter-talk.js"></script>
 
